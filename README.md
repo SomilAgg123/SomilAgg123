@@ -9,3 +9,7 @@ Now, I've turned my attention to AI and how it interfaces with people. I joined 
 However, like I said, I'm always tinkering. On the side, I am building [better knowledge factories for agents](https://customermemory.dev/). I often spend mornings reading, my penchant for which has resurfaced with the rise of [awesome technical blogs](https://somilaggarwal.com/#library).
 
 Outside of work is where I get to invest in being a huge game fanatic: board games, strategy games, party games, you name it. I'm tinkering with AI to build [awesome custom-made games](https://forhappyhour.com/) for my friends.
+
+I enjoy systems thinking, and my career has spanned product management, venture capital, and software engineering.
+
+I graduated a Merrill Presidential Scholar (top 1% of my college) from Cornell University with an honors degree in computer science. My thesis focused on using machine learning and satellite imagery to better model and map disease risk in vineyards.
