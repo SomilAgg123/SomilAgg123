@@ -6,7 +6,7 @@ Throughout my career thus far, this has manifested in building [a data tracking 
 
 Now, I've turned my attention to AI and how it interfaces with people. I joined Decagon AI to learn how to build and deploy production AI agents at scale.
 
-However, like I said, I'm always tinkering. On the side, I am building [better knowledge factories for agents](https://customermemory.dev/). I often spend mornings reading, my penchant for which has resurfaced with the rise of [awesome technical blogs](https://somilaggarwal.com/?view=content#library).
+However, like I said, I'm always tinkering. On the side, I am building [better knowledge factories for agents](https://customermemory.dev/). I often spend mornings reading, a penchant for which I’ve rediscovered thanks to my Grokbot’s daily recommendations for [awesome pieces](https://somilaggarwal.com/?view=content#library).
 
 Outside of work is where I get to invest in being a huge game fanatic: board games, strategy games, party games, you name it. I'm tinkering with AI to build [awesome custom-made games](https://forhappyhour.com/) for my friends.
 
